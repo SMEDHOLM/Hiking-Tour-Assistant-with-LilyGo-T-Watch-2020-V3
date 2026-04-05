@@ -54,5 +54,3 @@ Rasberry Pi Bluetooth receiver and WebUI
 - Open a web browser and browse to "http://127.0.0.1:5000" to open the WebUI
 - View or delete hiking session data in the WebUI
 
-## Support
-If you have questions or problems feel free to send an email to mikael.dahlbom@aalto.fi
